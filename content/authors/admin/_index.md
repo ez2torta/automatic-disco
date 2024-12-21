@@ -42,7 +42,6 @@ interests:
   - Artificial Intelligence
   - Computer Science
   - DIY IoT solutions
-  - 
 
 education:
   - area: Computer Science Engineering
