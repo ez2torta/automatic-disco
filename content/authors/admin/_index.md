@@ -33,23 +33,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ssalgado@wharton.upenn.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=WL38R6gAAAAJ&hl=es
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Macroeconomics
+  - Labor Economics
+  - Public Economics
 
 education:
   - area: PhD in Economics, 2019
@@ -61,7 +51,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Master in Applied Economics, 2010
+  - area: MSc in Economics, 2010
     institution: University of Chile
     date_start: 2016-01-01
     date_end: 2020-12-31
