@@ -1,7 +1,10 @@
 ---
-title: "An example preprint / working paper"
+title: "Stock Market Wealth and Entrepreneurship"
 authors:
-- admin
+- Gabriel Chodorow-Reich
+- Plamen T. Nenov
+- Vitor Santos
+- Alp Simsek.
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -28,16 +31,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://www.dropbox.com/scl/fi/8lla2wd793qlrknwcuu1u/CRNSS_CAVALCADE2024_SALGADO.pdf?rlkey=e9j8mzdgbyeyo33giwdydqhke&dl=1
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

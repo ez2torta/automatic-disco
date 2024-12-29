@@ -34,7 +34,7 @@ featured: true
 
 links:
 
-url_pdf: https://www.dropbox.com/scl/fi/ogmvfmlkpaz0nu158wdvn/CHHOS_SVPT.pdf?rlkey=m3jazd4n8yprb5ngm36j5i7me&e=1&dl=0
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3508543
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
